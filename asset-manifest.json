@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ba3a509.css",
+    "main.js": "/static/js/main.00015d2d.js",
+    "static/media/background-image-blurred.jpg": "/static/media/background-image-blurred.c1657a81b5233dcb0de9.jpg",
+    "static/media/mainlogo.png": "/static/media/mainlogo.f611336652c4637ce2f6.png",
+    "static/media/vehicle.png": "/static/media/vehicle.f611336652c4637ce2f6.png",
+    "static/media/geektrust-logo.jpg": "/static/media/geektrust-logo.40690da48e069b5a1b45.jpg",
+    "static/media/spaceship.svg": "/static/media/spaceship.2251fc79a2eee7cfea7f.svg",
+    "static/media/jebing.svg": "/static/media/jebing.581fa2b3766f08dd79f6.svg",
+    "static/media/spaceshuttle.svg": "/static/media/spaceshuttle.4a3d92e6f98668f19f88.svg",
+    "static/media/spacerocket.svg": "/static/media/spacerocket.ccb6d3b9bb0ebd5b9c78.svg",
+    "static/media/pingasor.svg": "/static/media/pingasor.ced6c9ec35dfe64d25e8.svg",
+    "static/media/planet.svg": "/static/media/planet.3743307dcc711fd70d962e8a7b1b3066.svg",
+    "static/media/enchai.svg": "/static/media/enchai.7a22b47411d0a49f33a8.svg",
+    "static/media/spacepod.svg": "/static/media/spacepod.b5e101453ffcbd32ff43.svg",
+    "static/media/donlon.svg": "/static/media/donlon.3f4cc52bcafdcfb0d1ca.svg",
+    "static/media/lerbin.svg": "/static/media/lerbin.e146eb0f45843fe9222f.svg",
+    "static/media/sapir.svg": "/static/media/sapir.b3f473c3f3f833a38803.svg",
+    "index.html": "/index.html",
+    "main.7ba3a509.css.map": "/static/css/main.7ba3a509.css.map",
+    "main.00015d2d.js.map": "/static/js/main.00015d2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba3a509.css",
+    "static/js/main.00015d2d.js"
+  ]
+}
